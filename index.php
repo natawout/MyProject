@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>::Natthawout</title>
     </head>
     <body>
+	<h1>Wout</h1>
         <?php
         // put your code here
         phpinfo();
